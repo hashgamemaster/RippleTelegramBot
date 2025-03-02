@@ -9,5 +9,9 @@
 2. run: node Mixer.js, then you could test the code in ripple testnet.
 3. If you want to run as a business service, please note the legal risks in your country and change ripple testnet to mainnet.
 
+## Service
+1. Mixer
+   - coming soon...
+
 ## Donate
 - Ripple: rGAME18vAXhnJaDhHREWBAi77iAzQmxPkG
