@@ -1,0 +1,11 @@
+{
+  "name": "bot",
+  "type": "module",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "crypto": "^1.0.1",
+    "sqlite3": "^5.1.7",
+    "xrpl": "^4.1.0"
+  }
+}
