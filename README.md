@@ -11,7 +11,7 @@
 
 ## Service
 1. Mixer
-   - coming soon...
+2. coming soon...
 
 ## Donate
 - Ripple: rGAME18vAXhnJaDhHREWBAi77iAzQmxPkG
